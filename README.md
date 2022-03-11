@@ -10,7 +10,7 @@ Outside of work, I enjoy tinkering with side projects, usually built with [Next]
 - 🌱 I’m currently learning [Remix](https://remix.run), [Kubernetes](https://kubernetes.io) and all things [Google Cloud Platform](https://cloud.google.com/gcp)
 - 👯 I’m looking to collaborate on a lightweight component library for rendering [Notion API](https://developers.notion.com) blocks with semantic HTML and unopinionated styles
 - 🤔 I’m looking for help with how to automate more of my daily programming tasks and effectively use [Notion](https://www.notion.so) and [Things](https://culturedcode.com/things/) as a "second brain"
-- 💬 Ask me about [Next.js](https://nextjs.org), [Gatsby.js](https://www.gatsbyjs.com), [React](https://reactjs.org), [TypeScript](https://www.typescriptlang.org), [Tailwind CSS](https://tailwindcss.com) or to-do lists
+- 💬 Ask me about [Next](https://nextjs.org), [Gatsby](https://www.gatsbyjs.com), [React](https://reactjs.org), [TypeScript](https://www.typescriptlang.org), [Tailwind CSS](https://tailwindcss.com) or to-do lists
 - 📫 Feel free to reach me as [@ooloth](https://twitter.com/ooloth) on Twitter or by [email](mailto:hello@michaeluloth.com)
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: I got hooked coding on back when I was an opera singer and needed a portfolio website and didn't want to pay anyone else to build it :)
