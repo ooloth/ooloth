@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a Senior Software Engineer on the API team at ecobee.
+I'm a Senior Software Engineer on the API team at [ecobee](https://www.ecobee.com/).
 
 The vast majority of my experience is in frontend web development, particularly using [React](https://reactjs.org) frameworks like [Gatsby](https://www.gatsbyjs.com) and [Next](https://nextjs.org) to build fast-loading, accessible websites. But after 4 years building marketing sites and 2.5 years building the ecommerce experience on [ecobee.com](https://www.ecobee.com), I've decided (at least for now) to transition into a backend role to round out my skills and continue learning as much as I can.
 
