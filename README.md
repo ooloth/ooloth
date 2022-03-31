@@ -12,6 +12,6 @@ Outside of work, I enjoy [blogging](https://michaeluloth.com/writing), making [t
 - 💬 Ask me about [Next](https://nextjs.org), [Gatsby](https://www.gatsbyjs.com), [React](https://reactjs.org), [TypeScript](https://www.typescriptlang.org) and [Tailwind CSS](https://tailwindcss.com)
 - 📫 Feel free to reach me on [Twitter](https://twitter.com/ooloth) or by [email](mailto:hello@michaeluloth.com)
 - 😄 Pronouns: he/him/his
-- ⚡ Fun fact: I taught myself to code when I was an opera singer and needed a website but didn't want to pay anyone to build it :)
+- ⚡ Fun fact: I taught myself to code back when I was an opera singer and needed a website but didn't want to pay anyone to build it :)
 
 🏡 [Website](https://michaeluloth.com) | 🐦 [Twitter](https://twitter.com/ooloth) | 📺 [YouTube](https://www.youtube.com/user/michaeluloth) | 👔 [LinkedIn](https://www.linkedin.com/in/michael-uloth-848a1b98/)
