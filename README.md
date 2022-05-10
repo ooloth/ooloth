@@ -2,9 +2,9 @@
 
 I'm a Senior Software Engineer on the API team at [ecobee](https://www.ecobee.com/).
 
-The majority of my experience is in front-end web development, and particularly building fast-loading, accessible websites with [React](https://reactjs.org) frameworks like [Gatsby](https://www.gatsbyjs.com), [Next](https://nextjs.org) and [Remix](https://remix.run). But after 4 years building marketing sites and 2.5 years building the ecommerce experience on [ecobee.com](https://www.ecobee.com), I've decided to transition (at least for now) into a back-end role to round out my full-stack skills and continue learning as much as I can.
+The majority of my experience is in front-end web development, and particularly building fast-loading, accessible websites with [React](https://reactjs.org) frameworks like [Gatsby](https://www.gatsbyjs.com), [Next](https://nextjs.org) and [Remix](https://remix.run). But after 7 years building marketing and ecommerce experiences, I've decided to round out my full-stack skills by taking on a back-end role.
 
-Outside of work, I enjoy [blogging](https://michaeluloth.com/writing), making [tutorial videos](https://www.youtube.com/user/michaeluloth), and tinkering with side projects:
+Outside of work, I enjoy [blogging](https://michaeluloth.com/writing), creating [tutorial videos](https://www.youtube.com/user/michaeluloth), and tinkering with side projects:
 
 - 🔭 I’m working on making my personal website content easier to update from my phone using [Next](https://nextjs.org) and the [Notion API](https://developers.notion.com)
 - 🌱 I’m learning [Remix](https://remix.run), [Kubernetes](https://kubernetes.io) and all things [Google Cloud Platform](https://cloud.google.com/gcp)
