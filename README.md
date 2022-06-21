@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a Senior Software Engineer at [Recursion](https://www.recursion.com).
+I'm a Senior Software Engineer at [Recursion](https://www.recursion.com) (where I contribute under the username [ooloth-recursion](https://github.com/ooloth-recursion)).
 
 The majority of my experience is in front-end web development, and particularly building fast-loading, accessible websites with [React](https://reactjs.org) frameworks like [Gatsby](https://www.gatsbyjs.com), [Next](https://nextjs.org) and [Remix](https://remix.run). But I'm excited to flex my backend muscles at Recursion by diving into new (to me) tools like Python, Flask and Kubernetes.
 
